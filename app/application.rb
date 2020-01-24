@@ -26,7 +26,6 @@ class Application
       else
         resp.write "Item not found."
       end
-    end
     else
       resp.write "Path Not Found"
     end
